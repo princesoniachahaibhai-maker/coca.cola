@@ -1,0 +1,5 @@
+# Ignore local dev server so Vercel never treats it as Node serverless app
+server.js
+audio.js
+.git/
+README.md
